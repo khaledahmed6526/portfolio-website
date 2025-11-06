@@ -1,0 +1,6 @@
+Username:
+akhaledahmedmahamed_db_user
+Password:
+blh0Ja4xekg8whJ6
+
+mongodb+srv://akhaledahmedmahamed_db_user:blh0Ja4xekg8whJ6@cluster0.kkaod63.mongodb.net/?appName=Cluster0
