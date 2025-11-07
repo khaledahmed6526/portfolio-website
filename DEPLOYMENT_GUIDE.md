@@ -29,7 +29,7 @@
 cd "c:\Users\khaled\Desktop\New folder (2)"
 
 # Initialize Git (إذا لم يكن موجوداً)
-git init
+    git init
 
 # Add all files
 git add .
