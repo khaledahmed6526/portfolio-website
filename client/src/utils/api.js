@@ -7,8 +7,7 @@
 import axios from 'axios';
 
 // Base API URL - use environment variable for production, proxy for development
-const API_URL = process.env.REACT_APP_API_URL || '/api';
-
+const API_URL = process.env.REACT_APP_API_URL || 'https://hopeful-charisma-production.up.railway.app/api';
 // Create axios instance with default config
 const api = axios.create({
   baseURL: API_URL,
